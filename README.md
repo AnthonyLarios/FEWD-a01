@@ -1,5 +1,4 @@
- # FEWD-a01
--FEWD assignment 1
++# FEWD-a01
 +FEWD Assignment 1
 +
 +## About myself
